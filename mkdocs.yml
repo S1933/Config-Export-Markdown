@@ -1,0 +1,5 @@
+site_name: TEST_CONFIG
+nav:
+  - Extensions: core/extension/core.extension.md
+theme: readthedocs
+docs_dir: config

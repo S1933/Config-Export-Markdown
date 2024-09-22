@@ -1,0 +1,11 @@
+# system.rss
+
+## _core
+
+## default_config_hash
+MIpNzlG4gPunfS7vTCwUPum6QH3GUsEBMj-qS631Jw0
+
+## items
+
+## view_mode
+rss

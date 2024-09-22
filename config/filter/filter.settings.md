@@ -1,0 +1,12 @@
+# filter.settings
+
+## _core
+
+## default_config_hash
+FiPjM3WdB__ruFA7B6TLwni_UcZbmek5G4b2dxQItxA
+
+## fallback_format
+plain_text
+
+## always_show_fallback_choice
+

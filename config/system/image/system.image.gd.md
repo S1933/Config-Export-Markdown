@@ -1,0 +1,9 @@
+# system.image.gd
+
+## _core
+
+## default_config_hash
+eNXaHfkJJUThHeF0nvkoXyPLRrKYGxgHRjORvT4F5rQ
+
+## jpeg_quality
+75

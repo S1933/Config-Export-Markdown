@@ -1,0 +1,114 @@
+# views.settings
+
+## _core
+
+## default_config_hash
+8oDr9oPVb_ostrNnVV6V7VdphwoH_u-NqTS0u7SE7qc
+
+## display_extenders
+
+
+## sql_signature
+
+
+## ui
+
+## show
+|key|value|
+|-|-|
+
+
+## always_live_preview
+1
+
+## exposed_filter_any_label
+old_any
+
+## field_rewrite_elements
+
+## div
+DIV
+
+## span
+SPAN
+
+## h1
+H1
+
+## h2
+H2
+
+## h3
+H3
+
+## h4
+H4
+
+## h5
+H5
+
+## h6
+H6
+
+## p
+P
+
+## header
+HEADER
+
+## footer
+FOOTER
+
+## article
+ARTICLE
+
+## section
+SECTION
+
+## aside
+ASIDE
+
+## details
+DETAILS
+
+## blockquote
+BLOCKQUOTE
+
+## figure
+FIGURE
+
+## address
+ADDRESS
+
+## code
+CODE
+
+## pre
+PRE
+
+## var
+VAR
+
+## samp
+SAMP
+
+## kbd
+KBD
+
+## strong
+STRONG
+
+## em
+EM
+
+## del
+DEL
+
+## ins
+INS
+
+## q
+Q
+
+## s
+S
